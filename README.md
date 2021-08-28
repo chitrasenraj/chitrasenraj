@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on app design
 - 📫 How to reach me ...
+- just try to contact me with text
 
 <!---
 chitrasenraj/chitrasenraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
