@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chitrasenraj
-- 👀 I’m interested in app delelopment
+- 👀 I’m interested in web delelopment
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on app design
+- 💞️ I’m looking to collaborate on web design
 - 📫 How to reach me ...
 - just try to contact me with text
 
